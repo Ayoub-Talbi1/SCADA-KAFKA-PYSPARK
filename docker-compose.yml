@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  scada-gen:
+    build:
+      context: ./SCADA-SYS
+    ports:
+      - 8000:8000
+
+  # Add other services 
+  # kafka:
+  # airflow
+  # spark
+  
+    
