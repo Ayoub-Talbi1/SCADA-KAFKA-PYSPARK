@@ -2,3 +2,14 @@ Dags/testenv
 
 proj/
 
+logs/
+
+plugins/
+
+script/
+
+config/
+
+dags/__pycache__
+
+

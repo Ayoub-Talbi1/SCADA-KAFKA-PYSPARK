@@ -1,0 +1,3 @@
+requests
+kafka-python
+apache-airflow==2.7.3
